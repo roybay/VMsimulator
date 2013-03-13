@@ -1,0 +1,10 @@
+In order to run the VMsimulater, please following steps.
+Step 1: make test
+Step 2: cd VMsimulator
+
+VMsimulater ready to run
+     ./VMsimulator plist ptrace 2 FIFO +
+
+You can also find more detail information about VMsimulator in man page...
+     ./VMsimulator ?
+     ./VMsimulator help
